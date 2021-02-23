@@ -6,7 +6,7 @@ The Histogram Filter is the most straightforward solution to represent continuou
 
 The disadvantage of the Histogram Filter is that we are not able to tell the probability of each possible state. We are only able to tell the probability that the state is in a certain region of the state space. to oversome this disadvantage, we could use a very fine-grained decomposition of the state space, but this drastically increases the computational complexity.
 
-## Localization Reference
+## Related Localization Projects
 - [x] [Histogram Filter](https://github.com/tooth2/HistogramFilter)
 - [x] [Kalman Filter](https://github.com/tooth2/Kalman-Filter)
 - [x] [Particle Filter](https://github.com/tooth2/Robot_Particle_Fillter)
