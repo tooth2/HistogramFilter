@@ -8,7 +8,7 @@ The disadvantage of the Histogram Filter is that we are not able to tell the pro
 
 ## Localization Reference
 - [x] [Histogram Filter](https://github.com/tooth2/HistogramFilter)
-- [ ] Kalman Filter
+- [x] [Kalman Filter](https://github.com/tooth2/Kalman-Filter)
 - [x] [Particle Filter](https://github.com/tooth2/Robot_Particle_Fillter)
 - [x] [Extended Kalman Filter](https://github.com/tooth2/Extended-Kalman-Filter)
 - [x] [Unscented Kalman Filter](https://github.com/tooth2/Unscented-Kalman-Filter)
